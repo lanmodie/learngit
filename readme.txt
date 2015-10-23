@@ -5,3 +5,4 @@ git tracks changes of files.
 hello git.
 goodbye.
 e.
+ok,I can connect to the remote.
